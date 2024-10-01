@@ -220,7 +220,7 @@ def ID():
 		menu()
 	elif Tracker == "99":
 		KURO()
-		webbrowser.open('https://github.com/KURO-CODE?tab=repositories')
+		webbrowser.open('https://github.com/xdefine?tab=repositories')
 		time.sleep(2)
 		menu()
 	elif Tracker == "0":
